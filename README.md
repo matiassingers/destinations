@@ -7,6 +7,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Singapore](https://github.com/rubysg/singapore)
 - [Kuala Lumpur](https://github.com/matiassingers/kuala-lumpur)
 
+## Europe
+- [Copenhagen](https://github.com/srn/copenhagen)
+
 ## Contribute
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
