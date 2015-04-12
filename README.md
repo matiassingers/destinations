@@ -3,6 +3,10 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Asia
+- [Singapore](https://github.com/rubysg/singapore)
+- [Kuala Lumpur](https://github.com/matiassingers/kuala-lumpur)
+
 ## Contribute
 Contributions are always welcome!
 Please read the [contribution guidelines](contributing.md) first.
