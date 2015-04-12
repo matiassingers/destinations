@@ -1,5 +1,5 @@
 # awesome-destinations
-> 
+> curated list of awesome travel destination repos
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
