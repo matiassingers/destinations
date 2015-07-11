@@ -6,6 +6,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Asia
 - [Singapore](https://github.com/rubysg/singapore)
 - [Kuala Lumpur](https://github.com/matiassingers/kuala-lumpur)
+- [Bangkok](https://github.com/srn/bangkok)
 
 ## Europe
 - [Copenhagen](https://github.com/srn/copenhagen)
