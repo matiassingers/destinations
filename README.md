@@ -1,4 +1,4 @@
-# awesome-destinations
+# destinations
 
 ## Asia
 - [Singapore](https://github.com/rubysg/singapore)
